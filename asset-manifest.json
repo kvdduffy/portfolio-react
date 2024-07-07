@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.js": "/portfolio-react/static/js/main.ba3b79a8.chunk.js",
+    "main.js.map": "/portfolio-react/static/js/main.ba3b79a8.chunk.js.map",
+    "runtime-main.js": "/portfolio-react/static/js/runtime-main.64099f85.js",
+    "runtime-main.js.map": "/portfolio-react/static/js/runtime-main.64099f85.js.map",
+    "static/js/2.44cfab6e.chunk.js": "/portfolio-react/static/js/2.44cfab6e.chunk.js",
+    "static/js/2.44cfab6e.chunk.js.map": "/portfolio-react/static/js/2.44cfab6e.chunk.js.map",
+    "index.html": "/portfolio-react/index.html",
+    "static/js/2.44cfab6e.chunk.js.LICENSE.txt": "/portfolio-react/static/js/2.44cfab6e.chunk.js.LICENSE.txt",
+    "static/media/MIPS_img.2fa0ba74.png": "/portfolio-react/static/media/MIPS_img.2fa0ba74.png",
+    "static/media/about_me_pic.18cedd76.jpg": "/portfolio-react/static/media/about_me_pic.18cedd76.jpg",
+    "static/media/cheers.95ead7a2.jpg": "/portfolio-react/static/media/cheers.95ead7a2.jpg",
+    "static/media/covid.45660241.jpg": "/portfolio-react/static/media/covid.45660241.jpg",
+    "static/media/covidTravel_img.866308f3.jpg": "/portfolio-react/static/media/covidTravel_img.866308f3.jpg",
+    "static/media/first_website_img.3f08aa28.png": "/portfolio-react/static/media/first_website_img.3f08aa28.png",
+    "static/media/food.2ec5a8e5.svg": "/portfolio-react/static/media/food.2ec5a8e5.svg",
+    "static/media/friendCard_img.87e1b0ad.png": "/portfolio-react/static/media/friendCard_img.87e1b0ad.png",
+    "static/media/mobile-development.a91f163a.svg": "/portfolio-react/static/media/mobile-development.a91f163a.svg",
+    "static/media/netflix.05af1528.svg": "/portfolio-react/static/media/netflix.05af1528.svg",
+    "static/media/profile.80be0d6c.jpg": "/portfolio-react/static/media/profile.80be0d6c.jpg",
+    "static/media/software-development.e3180cc5.svg": "/portfolio-react/static/media/software-development.e3180cc5.svg",
+    "static/media/web-development.568e38b2.svg": "/portfolio-react/static/media/web-development.568e38b2.svg",
+    "static/media/wildlife.9c2c7117.jpg": "/portfolio-react/static/media/wildlife.9c2c7117.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.64099f85.js",
+    "static/js/2.44cfab6e.chunk.js",
+    "static/js/main.ba3b79a8.chunk.js"
+  ]
+}
