@@ -10,9 +10,9 @@ function ImageSection() {
                 <img src={about} alt="" />
             </div>
             <div className="right-content">
-                <h4>I'm <span>Brenden</span></h4>
+                <h4>I'm <span>Kevin</span></h4>
                 <p className="paragraph">
-                    I'm a newgrad Computer Engineer from Virginia Tech. I'm a self starter with a broad skillset as an Electrical Engineer, a Software Engineer, and a Data Engineer from the work I've done both professionally in a work environment, and personally. I can learn whatever you need me to learn to do whatever you need me to do, just tell me when and where!
+                   I'm a nasty little sewage boy
                 </p>
 
                 <div className="about-info">
@@ -23,7 +23,7 @@ function ImageSection() {
                         <p>Location:</p>
                     </div>
                     <div className="info">
-                        <p>Brenden Duffy</p>
+                        <p>Kevin Duffy</p>
                         <p>English</p>
                         <p>CPE @ Virginia Tech</p>
                         <p>Fairfax, VA</p>

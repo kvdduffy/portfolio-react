@@ -33,12 +33,12 @@ function Navigation() {
             </ul>
 
             <div className="icons">
-                <a href="https://www.linkedin.com/in/bcdduffy/" className="icon i-linkedin"><LinkedInIcon /></a>
-                <a href="https://github.com/bcdduffy" className="icon i-github"><GithubIcon /></a>
+                <a href="www.linkedin.com/in/kevin-duffy-61a7a7203" className="icon i-linkedin"><LinkedInIcon /></a>
+                <a href="https://github.com/rhials" className="icon i-github"><GithubIcon /></a>
             </div>
 
             {/* <footer className="footer">
-                <p>@Brenden_Duffy</p>
+                <p>@kvdduffy</p>
             </footer> */}
         </NavigationStyled >
     );
